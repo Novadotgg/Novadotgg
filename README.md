@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Novadotgg
+# 👋 Hi, I’m Sayan
 - 👀 I’m interested in 10
 - 🌱 I’m currently doing my Masters...
 
