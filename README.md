@@ -41,3 +41,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=novadotgg&show_icons=true&locale=en" alt="novadotgg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novadotgg&" alt="novadotgg" /></p>
+
+[![An image of @novadotgg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/novadotgg)](https://holopin.io/@novadotgg)
+
+
+
+
+
