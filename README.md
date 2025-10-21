@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=novadotgg" alt="novadotgg" /></a> </p>
 
-- 🌱 I’m currently learning **The Sciend behind computing**
+- 🌱 I’m currently learning **The Science behind computing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
